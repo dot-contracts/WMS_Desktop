@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FicmaDT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2171c4e9e89fb96d415b5d4d866a8dca9d389967")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+607e195a68d6817ba09ce288d00898684018faf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("FicmaDT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FicmaDT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cYfEsWSWFCwY2VEoMuHtrd6RaFtzdjVdBzWOpjpbBp9VaUo7yax4sb3pqVD3fHGcRYhsCUQgWIiAwmBR3gccfw==",
+  "success": true,
+  "projectFilePath": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\FicmaDT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FICMA\\.nuget\\packages\\materialdesign.icons\\1.1.0\\materialdesign.icons.1.1.0.nupkg.sha512",
+    "C:\\Users\\FICMA\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
+    "C:\\Users\\FICMA\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
+    "C:\\Users\\FICMA\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

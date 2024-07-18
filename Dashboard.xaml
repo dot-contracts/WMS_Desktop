@@ -21,70 +21,7 @@
     </Window.Resources>-->
 
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="200"/>
-            <ColumnDefinition Width="*"/>
-        </Grid.ColumnDefinitions>
-
-        <local:SideMenu Grid.Column="0" Background="{DynamicResource MaterialDesignPaper}"/>
         
-        <!--main content area-->
-        <Grid Grid.Column="1">
-            <Grid.RowDefinitions>
-                <RowDefinition Height="Auto"/>
-                <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
-            <StackPanel Margin="20" Grid.Row="1">
-                <!--home use control-->
-                <Grid Margin="0 0 0 20">
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="*"/>
-                        <ColumnDefinition Width="*"/>
-                        <ColumnDefinition Width="*"/>
-                        <ColumnDefinition Width="*"/>
-                        <ColumnDefinition Width="*"/>
-                    </Grid.ColumnDefinitions>
-                    <Border Grid.Column="0" BorderBrush="gray" BorderThickness="1" Margin="5" CornerRadius="5">
-                        <StackPanel>
-                            <TextBlock Text="New Customers" HorizontalAlignment="Center"/>
-                            <TextBlock Text="{Binding newCustomers}" FontSize="24" HorizontalAlignment="Center"/>
-                        </StackPanel>
-                    </Border>
-                    <Border Grid.Column="1" BorderBrush="gray" BorderThickness="1" Margin="5" CornerRadius="5">
-                        <StackPanel>
-                            <TextBlock Text="Month's Collection" HorizontalAlignment="Center"/>
-                            <TextBlock Text="{Binding newCustomers}" FontSize="24" HorizontalAlignment="Center"/>
-                        </StackPanel>
-                    </Border>
-                    <Border Grid.Column="2" BorderBrush="gray" BorderThickness="1" Margin="5" CornerRadius="5">
-                        <StackPanel>
-                            <TextBlock Text="Annual sales" HorizontalAlignment="Center"/>
-                            <TextBlock Text="{Binding newCustomers}" FontSize="24" HorizontalAlignment="Center"/>
-                        </StackPanel>
-                    </Border>
-                    <Border Grid.Column="3" BorderBrush="gray" BorderThickness="1" Margin="5" CornerRadius="5">
-                        <StackPanel>
-                            <TextBlock Text="Number of employees" HorizontalAlignment="Center"/>
-                            <TextBlock Text="{Binding newCustomers}" FontSize="24" HorizontalAlignment="Center"/>
-                        </StackPanel>
-                    </Border>
-                    <Border Grid.Column="4" BorderBrush="gray" BorderThickness="1" Margin="5" CornerRadius="5">
-                        <StackPanel>
-                            <TextBlock Text="Month's expenses" HorizontalAlignment="Center"/>
-                            <TextBlock Text="{Binding newCustomers}" FontSize="24" HorizontalAlignment="Center"/>
-                        </StackPanel>
-                    </Border>
-                    
-                </Grid>
-            </StackPanel>
-            <TextBlock Text="{Binding pageTitle}" FontSize="20" Margin="10" Foreground="#3E4F5A"/>
-            <Button Grid.Column="1" Content="Profile" Width="40" Height="40" Margin="10" Foreground="#FFFFFF" Background="Purple"/>
-        </Grid>
-        
-        <!--dashboard content-->
-        <ScrollViewer Grid.Row="1">
-            
-        </ScrollViewer>
     </Grid>
     
     
