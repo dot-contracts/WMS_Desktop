@@ -1,0 +1,55 @@
+﻿<UserControl x:Class="FicmaDT.UIcomponents.UserControls.SideMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="200">
+    <Grid Background="{DynamicResource MaterialDesignPaper}">
+        <StackPanel>
+            <!-- Logo -->
+            <Image Source="/Images/logo.png" Height="60" Margin="10"/>
+            <TextBlock Text="Ficma Home Logictics" FontFamily="Comfortaa" FontSize="14" Foreground="#c4dfe4" HorizontalAlignment="Center" FontWeight="Bold"/>
+            <TextBlock Text="'service beyond customer's expectation'" FontFamily="Comfortaa" FontSize="7" Foreground="#b9b9b9" HorizontalAlignment="Center" FontWeight="Bold"/>
+
+            <!-- Menu Buttons -->
+            <Button Click="MenuButton_Click" Style="{StaticResource MaterialDesignFlatButton}" HorizontalContentAlignment="Left" Margin="5">
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="Home" Width="24" Height="24" Margin="0,0,10,0" Foreground="#0b84a2"/>
+                    <TextBlock Text="Home" FontSize="11" FontWeight="Bold" FontFamily="Comfortaa" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+            <Button Click="MenuButton_Click" Style="{StaticResource MaterialDesignFlatButton}" HorizontalContentAlignment="Left" Margin="5">
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="TruckDelivery" Width="24" Height="24" Margin="0,0,10,0" Foreground="#0b84a2"/>
+                    <TextBlock Text="Dispatch" FontSize="11" FontWeight="Bold" FontFamily="Comfortaa" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+            <Button Click="MenuButton_Click" Style="{StaticResource MaterialDesignFlatButton}" HorizontalContentAlignment="Left" Margin="5">
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="FileDocument" Width="24" Height="24" Margin="0,0,10,0" Foreground="#0b84a2"/>
+                    <TextBlock Text="Invoice" FontSize="11" FontWeight="Bold" FontFamily="Comfortaa" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+            <Button Click="MenuButton_Click" Style="{StaticResource MaterialDesignFlatButton}" HorizontalContentAlignment="Left" Margin="5">
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="Cog" Width="24" Height="24" Margin="0,0,10,0" Foreground="#0b84a2"/>
+                    <TextBlock Text="Settings" FontSize="11" FontWeight="Bold" FontFamily="Comfortaa" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+            <Button Click="MenuButton_Click" Style="{StaticResource MaterialDesignFlatButton}" HorizontalContentAlignment="Left" Margin="5">
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="AccountMultiple" Width="24" Height="24" Margin="0,0,10,0" Foreground="#0b84a2"/>
+                    <TextBlock Text="Employees Management" FontSize="11" FontWeight="Bold" FontFamily="Comfortaa" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+            <Button Click="MenuButton_Click" Style="{StaticResource MaterialDesignFlatButton}" HorizontalContentAlignment="Left" Margin="5">
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="Package" Width="24" Height="24" Margin="0,0,10,0" Foreground="#0b84a2"/>
+                    <TextBlock Text="Parcel Info" FontSize="11" FontWeight="Bold" FontFamily="Comfortaa" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+    </Grid>
+</UserControl>
