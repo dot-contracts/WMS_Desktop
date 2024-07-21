@@ -9,9 +9,9 @@
     <Grid Background="{DynamicResource MaterialDesignPaper}">
         <StackPanel>
             <!-- Logo -->
-            <Image Source="/Images/logo.png" Height="60" Margin="10"/>
-            <TextBlock Text="Ficma Home Logictics" FontFamily="Comfortaa" FontSize="14" Foreground="#c4dfe4" HorizontalAlignment="Center" FontWeight="Bold"/>
-            <TextBlock Text="'service beyond customer's expectation'" FontFamily="Comfortaa" FontSize="7" Foreground="#b9b9b9" HorizontalAlignment="Center" FontWeight="Bold"/>
+            <Image Source="/Images/logo.png" Height="100" Margin="10"/>
+            <TextBlock Text="Ficma Home Logictics" FontFamily="Comfortaa" FontSize="16" Foreground="#0d6b81" HorizontalAlignment="Center" FontWeight="Bold"/>
+            <TextBlock Text="'service beyond customer's expectation'" FontFamily="Comfortaa" FontSize="8" Foreground="#033b48" HorizontalAlignment="Center" FontWeight="Bold"/>
 
             <!-- Menu Buttons -->
             <Button Click="MenuButton_Click" Style="{StaticResource FlatButtonStyle}" HorizontalContentAlignment="Left" Margin="5">
