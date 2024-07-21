@@ -15,6 +15,9 @@
     <Page Update="Dashboard.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="UIcomponents\Styles\FlatButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="UIcomponents\UserControls\SideMenu.xaml">
       <SubType>Designer</SubType>
     </Page>

@@ -3,17 +3,18 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-        <FontFamily x:Key="MyFontFamily">pack://application:,,,/Fonts/Comfortaa-VariableFont_wght.ttf#MyFont</FontFamily>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <!-- Material Design in XAML Toolkit -->
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
                 <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
-                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/MaterialDesignColor.Pink.xaml" />
-                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/MaterialDesignColor.Deebled.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.DeepOrange.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Lime.xaml" />
                 <!-- Your custom styles -->
-                <ResourceDictionary Source="YourCustomStyles.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/FicmaDT;component/UIcomponents/Styles/FlatButton.xaml" />
             </ResourceDictionary.MergedDictionaries>
+            <!-- Font Family Definition -->
+            <FontFamily x:Key="MyFontFamily">pack://application:,,,/Fonts/Comfortaa-VariableFont_wght.ttf#MyFont</FontFamily>
         </ResourceDictionary>
     </Application.Resources>
 </Application>

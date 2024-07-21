@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\uicomponents\\usercontrols\\sidemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:uicomponents\\usercontrols\\sidemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\uicomponents\\usercontrols\\sidemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:uicomponents\\usercontrols\\sidemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\uicomponents\\styles\\flatbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:uicomponents\\styles\\flatbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\uicomponents\\usercontrols\\sidemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:uicomponents\\usercontrols\\sidemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\ficmadt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:ficmadt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,29 +81,43 @@
               "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SideMenu.xaml.cs",
-              "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\UIcomponents\\UserControls\\SideMenu.xaml.cs",
-              "RelativeDocumentMoniker": "UIcomponents\\UserControls\\SideMenu.xaml.cs",
-              "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\UIcomponents\\UserControls\\SideMenu.xaml.cs",
-              "RelativeToolTip": "UIcomponents\\UserControls\\SideMenu.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T09:39:49.062Z",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.xaml",
+              "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "Dashboard.xaml",
+              "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\Dashboard.xaml*",
+              "RelativeToolTip": "Dashboard.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-21T09:43:44.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FicmaDT.csproj",
-              "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\FicmaDT.csproj",
-              "RelativeDocumentMoniker": "FicmaDT.csproj",
-              "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\FicmaDT.csproj",
-              "RelativeToolTip": "FicmaDT.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-18T06:39:36.892Z",
+              "DocumentIndex": 1,
+              "Title": "FlatButton.xaml",
+              "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\UIcomponents\\Styles\\FlatButton.xaml",
+              "RelativeDocumentMoniker": "UIcomponents\\Styles\\FlatButton.xaml",
+              "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\UIcomponents\\Styles\\FlatButton.xaml",
+              "RelativeToolTip": "UIcomponents\\Styles\\FlatButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T15:09:51.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SideMenu.xaml",
+              "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\UIcomponents\\UserControls\\SideMenu.xaml",
+              "RelativeDocumentMoniker": "UIcomponents\\UserControls\\SideMenu.xaml",
+              "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\UIcomponents\\UserControls\\SideMenu.xaml",
+              "RelativeToolTip": "UIcomponents\\UserControls\\SideMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T15:08:55.556Z",
               "EditorCaption": ""
             },
             {
@@ -119,31 +129,7 @@
               "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-02T14:43:22.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dashboard.xaml",
-              "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\Dashboard.xaml",
-              "RelativeDocumentMoniker": "Dashboard.xaml",
-              "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\Dashboard.xaml",
-              "RelativeToolTip": "Dashboard.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-02T14:01:22.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SideMenu.xaml",
-              "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\UIcomponents\\UserControls\\SideMenu.xaml",
-              "RelativeDocumentMoniker": "UIcomponents\\UserControls\\SideMenu.xaml",
-              "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\UIcomponents\\UserControls\\SideMenu.xaml",
-              "RelativeToolTip": "UIcomponents\\UserControls\\SideMenu.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-18T06:39:39.195Z",
+              "WhenOpened": "2024-07-18T15:04:16.639Z",
               "EditorCaption": ""
             }
           ]
