@@ -55,7 +55,7 @@ namespace FicmaDT.UIcomponents.UserControls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/FicmaDT;V1.0.0.0;component/uicomponents/usercontrols/sidemenu.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/FicmaDT;component/uicomponents/usercontrols/sidemenu.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\UIcomponents\UserControls\SideMenu.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
