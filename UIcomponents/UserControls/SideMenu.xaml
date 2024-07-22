@@ -34,12 +34,6 @@
             </Button>
             <Button Click="MenuButton_Click" Style="{StaticResource FlatButtonStyle}" HorizontalContentAlignment="Left" Margin="5">
                 <StackPanel Orientation="Horizontal">
-                    <materialDesign:PackIcon Kind="Cog" Width="24" Height="24" Margin="0,0,10,0" Foreground="#0b84a2"/>
-                    <TextBlock Text="Settings" FontSize="11" FontWeight="Bold" FontFamily="Comfortaa" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                </StackPanel>
-            </Button>
-            <Button Click="MenuButton_Click" Style="{StaticResource FlatButtonStyle}" HorizontalContentAlignment="Left" Margin="5">
-                <StackPanel Orientation="Horizontal">
                     <materialDesign:PackIcon Kind="AccountMultiple" Width="24" Height="24" Margin="0,0,10,0" Foreground="#0b84a2"/>
                     <TextBlock Text="Employees Management" FontSize="11" FontWeight="Bold" FontFamily="Comfortaa" HorizontalAlignment="Center" VerticalAlignment="Center"/>
                 </StackPanel>
@@ -48,6 +42,18 @@
                 <StackPanel Orientation="Horizontal">
                     <materialDesign:PackIcon Kind="Package" Width="24" Height="24" Margin="0,0,10,0" Foreground="#0b84a2"/>
                     <TextBlock Text="Parcel Info" FontSize="11" FontWeight="Bold" FontFamily="Comfortaa" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+            <Button Click="MenuButton_Click" Style="{StaticResource FlatButtonStyle}" HorizontalContentAlignment="Left" Margin="5">
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="Cog" Width="24" Height="24" Margin="0,0,10,0" Foreground="#0b84a2"/>
+                    <TextBlock Text="Settings" FontSize="11" FontWeight="Bold" FontFamily="Comfortaa" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+            </Button>
+            <Button Click="MenuButton_Click" Style="{StaticResource FlatButtonStyle}" HorizontalContentAlignment="Left" Margin="5">
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="MessageAdd" Width="24" Height="24" Margin="0,0,10,0" Foreground="#0b84a2"/>
+                    <TextBlock Text="Bulk SMS" FontSize="11" FontWeight="Bold" FontFamily="Comfortaa" HorizontalAlignment="Center" VerticalAlignment="Center"/>
                 </StackPanel>
             </Button>
         </StackPanel>

@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="FicmaDT.UIcomponents.UserControls.Dispatch"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:FicmaDT.UIcomponents.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Filter Controls -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="10">
+            <ComboBox Width="150" materialDesign:HintAssist.Hint="Branch" Margin="0,0,10,0">
+                <ComboBoxItem Content="Eldoret"/>
+                <ComboBoxItem Content="Kisumu"/>
+                <ComboBoxItem Content="Nakuru"/>
+                <ComboBoxItem Content="Kericho"/>
+                <ComboBoxItem Content="Kitale"/>
+                <ComboBoxItem Content="Kakamega"/>
+                <!-- Add more branches as needed -->
+            </ComboBox>
+            <DatePicker Width="150" materialDesign:HintAssist.Hint="Date" Margin="0,0,10,0"/>
+            <TextBox Width="150" materialDesign:HintAssist.Hint="Waybill No" Margin="0,0,10,0"/>
+        </StackPanel>
+
+        <!-- DataGrid -->
+        <DataGrid Grid.Row="1" AutoGenerateColumns="False" Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Waybill No." Binding="{Binding WaybillNo}"/>
+                <DataGridTextColumn Header="Date" Binding="{Binding Date}"/>
+                <DataGridTextColumn Header="From" Binding="{Binding From}"/>
+                <DataGridTextColumn Header="To" Binding="{Binding To}"/>
+                <DataGridTextColumn Header="Amount" Binding="{Binding Amount}"/>
+                <DataGridTextColumn Header="COD/Paid/Acct" Binding="{Binding PaymentType}"/>
+                <DataGridTextColumn Header="Status" Binding="{Binding Status}"/>
+                <DataGridTextColumn Header="Tracking No" Binding="{Binding TrackingNo}"/>
+                <DataGridTextColumn Header="Vehicle" Binding="{Binding Vehicle}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Pagination Controls -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
+            <ComboBox Width="100" materialDesign:HintAssist.Hint="Items per page" Margin="0,0,10,0">
+                <ComboBoxItem Content="20"/>
+                <ComboBoxItem Content="50"/>
+                <ComboBoxItem Content="100"/>
+            </ComboBox>
+            <Button Content="Previous" Style="{StaticResource MaterialDesignFlatButton}" Margin="0,0,10,0"/>
+            <TextBlock Text="1" VerticalAlignment="Center" Margin="0,0,5,0"/>
+            <TextBlock Text="2" VerticalAlignment="Center" Margin="0,0,5,0"/>
+            <TextBlock Text="..." VerticalAlignment="Center" Margin="0,0,5,0"/>
+            <TextBlock Text="256" VerticalAlignment="Center" Margin="0,0,10,0"/>
+            <Button Content="Next" Style="{StaticResource MaterialDesignFlatButton}"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

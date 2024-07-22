@@ -7,6 +7,12 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="UIcomponents\UserControls\Dispatch.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UIcomponents\UserControls\Home.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="UIcomponents\UserControls\SideMenu.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -16,6 +22,12 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="UIcomponents\Styles\FlatButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UIcomponents\UserControls\Dispatch.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UIcomponents\UserControls\Home.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="UIcomponents\UserControls\SideMenu.xaml">
