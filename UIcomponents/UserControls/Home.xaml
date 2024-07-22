@@ -6,7 +6,7 @@
              xmlns:local="clr-namespace:FicmaDT.UIcomponents.UserControls"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
+    <Grid Background="{DynamicResource MaterialDesignPaper}">
         <ScrollViewer Grid.Row="1">
             <StackPanel Margin="20">
                 <!-- Home User Control -->

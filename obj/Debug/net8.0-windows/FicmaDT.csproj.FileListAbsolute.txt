@@ -14,6 +14,7 @@ C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\App.bam
 C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\Dashboard.g.cs
 C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\UIcomponents\UserControls\Dispatch.g.cs
 C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\UIcomponents\UserControls\Home.g.cs
+C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\UIcomponents\UserControls\Invoice.g.cs
 C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\UIcomponents\UserControls\SideMenu.g.cs
 C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\App.g.cs
 C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
@@ -22,6 +23,7 @@ C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\FicmaDT
 C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\Dashboard.baml
 C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\UIcomponents\UserControls\Dispatch.baml
 C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\UIcomponents\UserControls\Home.baml
+C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\UIcomponents\UserControls\Invoice.baml
 C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\FicmaDT.g.resources
 C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\FicmaDT.GeneratedMSBuildEditorConfig.editorconfig
 C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\obj\Debug\net8.0-windows\FicmaDT.AssemblyInfoInputs.cache
