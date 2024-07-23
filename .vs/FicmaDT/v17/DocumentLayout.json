@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,6 +39,10 @@
       "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:uicomponents\\usercontrols\\sidemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|c:\\paul docs\\projects\\ficma wms\\desktop\\ficmadt\\uicomponents\\usercontrols\\bulksms.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B9C045FA-1076-4522-8185-14606EF8B1D8}|FicmaDT.csproj|solutionrelative:uicomponents\\usercontrols\\bulksms.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -34,8 +54,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:36:16.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T17:13:45.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext.cs",
+              "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\Data\\DbContext.cs",
+              "RelativeToolTip": "Data\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:07:26.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwv0AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:02:55.612Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -90,7 +162,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-23T17:02:31.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Dashboard.xaml.cs",
               "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\Dashboard.xaml.cs",
               "RelativeDocumentMoniker": "Dashboard.xaml.cs",
@@ -98,12 +182,11 @@
               "RelativeToolTip": "Dashboard.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T14:11:37.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T14:11:37.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "SideMenu.xaml",
               "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\UIcomponents\\UserControls\\SideMenu.xaml",
               "RelativeDocumentMoniker": "UIcomponents\\UserControls\\SideMenu.xaml",
@@ -115,20 +198,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\ViewModels\\RelayCommand.cs",
               "RelativeDocumentMoniker": "ViewModels\\RelayCommand.cs",
               "ToolTip": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\ViewModels\\RelayCommand.cs",
               "RelativeToolTip": "ViewModels\\RelayCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T14:08:57.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "DashboardViewModel.cs",
               "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\ViewModels\\DashboardViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\DashboardViewModel.cs",
@@ -141,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "BulkSms.xaml",
               "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\UIcomponents\\UserControls\\BulkSms.xaml",
               "RelativeDocumentMoniker": "UIcomponents\\UserControls\\BulkSms.xaml",
@@ -153,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Dashboard.xaml",
               "DocumentMoniker": "C:\\Paul docs\\Projects\\Ficma WMS\\desktop\\FicmaDT\\Dashboard.xaml",
               "RelativeDocumentMoniker": "Dashboard.xaml",

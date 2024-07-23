@@ -43,8 +43,9 @@
             </Grid>
 
             <!-- Dashboard Content -->
-            <local:Home Background="{DynamicResource MaterialDesignPaper}" Grid.ColumnSpan="2"/>
-
+            <Grid Grid.Row="1">
+                <local:Home Background="{DynamicResource MaterialDesignPaper}" Grid.ColumnSpan="2"/>
+            </Grid>
         </Grid>
     </Grid>
 </Window>
