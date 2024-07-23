@@ -7,6 +7,9 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="UIcomponents\UserControls\BulkSms.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="UIcomponents\UserControls\Dispatch.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -25,6 +28,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="UIcomponents\Styles\FlatButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UIcomponents\UserControls\BulkSms.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="UIcomponents\UserControls\Dispatch.xaml">

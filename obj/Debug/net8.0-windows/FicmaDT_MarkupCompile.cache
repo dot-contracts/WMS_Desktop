@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Paul docs\Projects\Ficma WMS\desktop\FicmaDT\App.xaml
-6-89971002
+71919418307
 
-8-92271296
+11735951976
 2022073307006
-Dashboard.xaml;UIcomponents\Styles\FlatButton.xaml;UIcomponents\UserControls\Dispatch.xaml;UIcomponents\UserControls\Home.xaml;UIcomponents\UserControls\Invoice.xaml;UIcomponents\UserControls\SideMenu.xaml;
+Dashboard.xaml;UIcomponents\Styles\FlatButton.xaml;UIcomponents\UserControls\BulkSms.xaml;UIcomponents\UserControls\Dispatch.xaml;UIcomponents\UserControls\Home.xaml;UIcomponents\UserControls\Invoice.xaml;UIcomponents\UserControls\SideMenu.xaml;
 
 False
 
